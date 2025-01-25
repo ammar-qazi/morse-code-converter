@@ -14,4 +14,5 @@ Run `morse_converter.py` to launch the application.
 ## License
 This project is licensed under the MIT License - see LICENSE file for details.
 
+## Screenshot
 ![Morse Code Converter Interface](images/text_to_morse_screenshot.png)
